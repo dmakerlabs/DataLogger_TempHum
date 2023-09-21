@@ -31,5 +31,7 @@ A escolha entre esses sensores dependerá das suas necessidades específicas. Se
 A escolha entre esses sensores foi o **DHT22 (ou DHT11)** devido ao custo, facilidade em comprá-lo e quantidade de exemplos disponíveis na comunidade maker.
 
 # **Datasheet**
-[**DHT11**](https://pdf1.alldatasheet.com/datasheet-pdf/view/1132088/ETC2/DHT11.html)
-[**DHT22**](https://pdf1.alldatasheet.com/datasheet-pdf/view/1132459/ETC2/DHT22.html)
+
+## [**DHT11**]([https://pdf1.alldatasheet.com/datasheet-pdf/view/1132088/ETC2/DHT11.html](https://pdf1.alldatasheet.com/datasheet-pdf/view/1440068/ETC/DHT11.html))
+
+## [**DHT22**](https://pdf1.alldatasheet.com/datasheet-pdf/view/1132459/ETC2/DHT22.html)
